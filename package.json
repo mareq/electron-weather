@@ -16,9 +16,12 @@
     "url": "https://github.com/satelliteworkshops/electron-weather/issues"
   },
   "homepage": "https://github.com/satelliteworkshops/electron-weather#readme",
+  "dependencies": {
+    "electron": "^1.6.8",
+    "menubar": "^5.2.3"
+  },
   "devDependencies": {
     "electron": "^1.6.8",
     "menubar": "^5.2.3"
-    
   }
 }
